@@ -3,7 +3,7 @@
 
 #### COMP 2000 - Assignment 2 - Coursework
 
-This project was part of my secound-year coursework, module COMP2000. it’s an android application for a resteraunt (Sea View). 
+This project was part of my secound-year coursework, module COMP2000. It’s an android application for a resteraunt (Sea View). 
 
 A product vision and functional requirements were given and can be found in the appendix.
 
