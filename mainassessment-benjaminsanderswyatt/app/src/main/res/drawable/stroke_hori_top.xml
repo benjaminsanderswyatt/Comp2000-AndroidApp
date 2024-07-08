@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--Transparent shape with a boarder on the top and bottom-->
+    <item android:bottom="-4dp">
+        <shape android:shape="rectangle">
+            <stroke android:width="4dp" android:color="@color/dark_green" />
+        </shape>
+    </item>
+
+</layer-list>

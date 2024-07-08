@@ -1,0 +1,32 @@
+{
+  "meals": {
+
+    "meal 1": {
+      "name": "Lamb",
+      "diet": "",
+      "allergies": "Nuts",
+      "description": "Its a leg of lamb"
+    },
+
+    "meal 2": {
+      "name": "Pasta",
+      "diet": "Vegetarian",
+      "allergies": "None",
+      "description": "Its pasta"
+    },
+
+    "meal 3": {
+      "name": "Beef Burger",
+      "diet": "",
+      "allergies": "Beef",
+      "description": "Its a beef burger"
+    },
+
+    "meal 4": {
+      "name": "Pancakes",
+      "diet": "Vegan",
+      "allergies": "Syrup",
+      "description": "Its pancakes"
+    }
+  }
+}

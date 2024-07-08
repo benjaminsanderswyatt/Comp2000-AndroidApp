@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Defaults-->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+
+    <color name="grey">#FFD9D9D9</color>
+
+
+    <color name="transparent">#00000000</color>
+
+    <!--transparent green/orange-->
+    <color name="toggle_green">#608CE38A</color>
+    <color name="toggle_orange">#60D99C63</color>
+
+
+    <!--Holders-->
+    <color name="transparent_blue">#E663A0D9</color>
+    <color name="blue">#FF63A0D9</color>
+
+    <!--Buttons & Containers-->
+    <color name="orange">#FFD99C63</color>
+    <color name="light_orange">#FFECC19A</color>
+    <color name="transparent_orange">#44D99C63</color>
+
+    <!--Proceed / Success-->
+    <color name="green">#FF8CE38A</color>
+    <color name="dark_green">#FF23DB61</color>
+
+    <!--Cancel / Error-->
+    <color name="red">#FFD97163</color>
+
+    <!--Stars-->
+    <color name="yellow">#FFFFEB36</color>
+
+</resources>

@@ -1,0 +1,45 @@
+{
+  "reviews": {
+    "review 1": {
+      "username": "Adam Smith",
+      "content": "Love this place",
+      "rating": "5"
+    },
+
+    "review 2": {
+      "username": "Beth Baron",
+      "content": "Could be better",
+      "rating": "1"
+    },
+
+    "review 3": {
+      "username": "Chloe Collins",
+      "content": "Excellent customer service. I'm definitely coming back again.",
+      "rating": "4"
+    },
+
+    "review 4": {
+      "username": "Daniel Davis",
+      "content": "It was wonderful but it could have had some improvements",
+      "rating": "3"
+    },
+
+    "review 5": {
+      "username": "Emily Evans",
+      "content": "Absolutely terrible",
+      "rating": "2"
+    },
+
+    "review 6": {
+      "username": "Finn Foster",
+      "content": "Service needs working on",
+      "rating": "1"
+    },
+
+    "review 7": {
+      "username": "Greg Gibson",
+      "content": "My favorite place to be",
+      "rating": "5"
+    }
+  }
+}

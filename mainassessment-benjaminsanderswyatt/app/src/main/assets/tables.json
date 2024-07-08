@@ -1,0 +1,167 @@
+{
+  "tables": {
+
+    "table 1": {
+      "size":8,
+      "accessible": "Yes",
+      "location": "Inside"
+    },
+
+    "table 2": {
+      "size":4,
+      "accessible": "Yes",
+      "location": "Inside"
+    },
+
+    "table 3": {
+      "size":8,
+      "accessible": "Yes",
+      "location": "Inside"
+    },
+
+    "table 4": {
+      "size":4,
+      "accessible": "Yes",
+      "location": "Inside"
+    },
+
+    "table 5": {
+      "size":6,
+      "accessible": "Yes",
+      "location": "Inside"
+    },
+
+    "table 6": {
+      "size":5,
+      "accessible": "Yes",
+      "location": "Inside"
+    },
+
+    "table 7": {
+      "size":6,
+      "accessible": "Yes",
+      "location": "Inside"
+    },
+
+    "table 8": {
+      "size":5,
+      "accessible": "Yes",
+      "location": "Inside"
+    },
+
+    "table 9": {
+      "size":2,
+      "accessible": "No",
+      "location": "Inside"
+    },
+
+    "table 10": {
+      "size":2,
+      "accessible": "No",
+      "location": "Inside"
+    },
+
+    "table 11": {
+      "size":10,
+      "accessible": "Yes",
+      "location": "Inside"
+    },
+
+    "table 12": {
+      "size":3,
+      "accessible": "No",
+      "location": "Garden"
+    },
+
+    "table 13": {
+      "size":4,
+      "accessible": "No",
+      "location": "Garden"
+    },
+
+    "table 14": {
+      "size":4,
+      "accessible": "Yes",
+      "location": "Garden"
+    },
+
+    "table 15": {
+      "size":2,
+      "accessible": "Yes",
+      "location": "Garden"
+    },
+
+    "table 16": {
+      "size":2,
+      "accessible": "Yes",
+      "location": "Garden"
+    },
+
+    "table 17": {
+      "size":2,
+      "accessible": "Yes",
+      "location": "Garden"
+    },
+
+    "table 18": {
+      "size":2,
+      "accessible": "Yes",
+      "location": "Seaside"
+    },
+
+    "table 19": {
+      "size":2,
+      "accessible": "Yes",
+      "location": "Seaside"
+    },
+
+    "table 20": {
+      "size":2,
+      "accessible": "Yes",
+      "location": "Seaside"
+    },
+
+    "table 21": {
+      "size":3,
+      "accessible": "Yes",
+      "location": "Seaside"
+    },
+
+    "table 22": {
+      "size":4,
+      "accessible": "Yes",
+      "location": "Seaside"
+    },
+
+    "table 23": {
+      "size":2,
+      "accessible": "No",
+      "location": "Seaside"
+    },
+
+    "table 24": {
+      "size":3,
+      "accessible": "No",
+      "location": "Seaside"
+    },
+
+    "table 25": {
+      "size":4,
+      "accessible": "No",
+      "location": "Seaside"
+    },
+
+    "table 26": {
+      "size":2,
+      "accessible": "No",
+      "location": "Seaside"
+    },
+
+    "table 27": {
+      "size":2,
+      "accessible": "No",
+      "location": "Seaside"
+    }
+
+  }
+}

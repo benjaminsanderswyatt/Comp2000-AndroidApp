@@ -1,0 +1,13 @@
+{
+  "users": {
+    "user 1": {
+      "username": "Adam Smith",
+      "phoneNum": "07777777777"
+    },
+
+    "user 2": {
+      "username": "Beth Baron",
+      "phoneNum": "07666666666"
+    }
+  }
+}

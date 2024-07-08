@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Coursework2000</string>
+
+
+
+
+
+    <!---->
+    <string name="address">…address line…</string>
+    <string name="phone_number">…phone number…</string>
+
+    <!--hints-->
+    <string name="hint_username">Username…</string>
+    <string name="hint_phone_number">Phone Number…</string>
+
+
+
+
+    <!--Title-->
+    <string name="find_us">Find Us</string>
+    <string name="my_reservations">My Reservations</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="book_table">Book Table</string>
+    <string name="your_booking">Your Booking</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="menu">Menu</string>
+    <string name="reviews">Reviews</string>
+
+    <!--Bottom Bar-->
+    <string name="home_description">Clickable image for home screen</string>
+    <string name="account_settings_description">Image that indicates settings</string>
+    <string name="find_us_description">A clickable image for find us page</string>
+    <string name="home">Home</string>
+
+    <!--Image Descriptions-->
+    <string name="logo_description">SeaView Logo</string>
+    <string name="location_map_description">A map of where the restaurant is located</string>
+    <string name="layout_map_description">A layout map of the restaurant</string>
+
+    <!--Buttons-->
+    <string name="edit_booking">Edit Booking</string>
+    <string name="cancel_booking">Cancel Booking</string>
+    <string name="proceed">Proceed</string>
+    <string name="continue_button">Continue</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="details">Details</string>
+    <string name="see_map">Click to see map</string>
+    <string name="leave_review">Leave Review</string>
+
+    <!--Reservation details-->
+    <string name="wheelchair_accessible">Wheelchair accessible:</string>
+    <string name="table_location">Table Location:</string>
+    <string name="table_number">Table Number:</string>
+    <string name="table_size">Table Size:</string>
+    <string name="time">Time:</string>
+
+    <!--Favorites-->
+    <string name="favourite_table">Favourite table</string>
+    <string name="favourite_meal">Favourite meal</string>
+
+    <!--Book Table-->
+    <string name="date">Date:</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="your_fav_table">Your favourite table is </string>
+    <string name="chosen_table_num">Chosen table number:</string>
+    <string name="please_choose">Please choose a table</string>
+
+    <!--Fullscreen Map Zoom-->
+    <string name="zoom_in">Zoom In</string>
+    <string name="zoom_out">Zoom out</string>
+
+    <!--Menu-->
+    <string name="allergies_warning">Allergies Warning:</string>
+    <string name="lamb">Image of lamb</string>
+
+
+
+
+
+</resources>
