@@ -1,3 +1,4 @@
+![Banner](./banner.png)
 
 # Sea View Android App
 
